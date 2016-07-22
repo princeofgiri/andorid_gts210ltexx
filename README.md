@@ -15,7 +15,7 @@ source ~/.profile
 
 # Getting sources
 
-repo init -u https://github.com/princeofgiri/android_gst210ltexx.git -b marshmallow-release
+repo init -u https://github.com/princeofgiri/android_gts210ltexx.git -b marshmallow-release
 
 repo sync
 
