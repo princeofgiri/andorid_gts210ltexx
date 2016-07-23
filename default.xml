@@ -41,6 +41,7 @@
   <project path="device/samsung/gts210lwifi" name="CyanogenMod/android_device_samsung_gts210wifi" remote="github" revision="cm-13.0" groups="device,gts210wifi,broadcom_pdk" />
 
   <project path="kernel/samsung/gts210ltexx" name="CyanogenMod/android_kernel_samsung_gts2" remote="github" revision="cm-13.0" groups="kernel,gts210ltexx" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
 
 
 
